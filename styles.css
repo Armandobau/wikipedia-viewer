@@ -1,0 +1,42 @@
+.page-header{
+    text-align: center;
+}
+
+#search:hover{
+    /*background-color: #CCDDDD;*/
+    cursor: pointer;
+}
+
+.btn{
+    background-color: #EEEEEE;
+    border-color: #CCCCCC;
+    color: #596C6C;
+    font-weight: bold;
+}
+
+.btn:visited{
+    border-color: #CCCCCC;
+}
+
+.form-group{
+    margin-right: 10px;
+}
+
+#results{
+    margin-top: 40px;
+}
+
+.box{
+    border-top: 1px solid #CCCCCC;
+    margin: 0px 5px 5px 5px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    width: 99%;
+    color:dimgrey;
+}
+
+.box:hover{
+    border-top: 1px solid #596C6C;
+    border-bottom: 1px solid #596C6C;
+    background-color:beige;
+}
